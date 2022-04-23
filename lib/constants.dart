@@ -1,0 +1,1 @@
+const GoogleCrediantials = 'AIzaSyBZJr-LWEJ2weVv9wCTvaG7fmLjtD5Mf5Y';
